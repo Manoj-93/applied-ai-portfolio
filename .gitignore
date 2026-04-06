@@ -1,7 +1,23 @@
+# environments
+LC_environment/
 venv/
 .venv/
+
+# secrets
+.env
+
+# python
 __pycache__/
 *.pyc
+
+# notebooks
 .ipynb_checkpoints/
-.env
+
+# vector DB / artifacts
+*.faiss
+*.pkl
+*.bin
+chroma.sqlite3
+
+# OS
 .DS_Store

@@ -1,6 +1,6 @@
 # Applied AI Portfolio
 
-This repository documents my transition from Principal Technical Consultant to Applied AI / Forward Deployed Engineer-style roles.
+This repository document Applied AI / Forward Deployed Engineer-style roles.
 
 It contains:
 - LangChain projects
